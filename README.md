@@ -1,1 +1,0 @@
-This project includes exploratory data analysis using data from the United States National Centers for Environmental Information, link here: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209268. The data was cleaned and processed using SQL and turned into a dashboard using Tableau.
